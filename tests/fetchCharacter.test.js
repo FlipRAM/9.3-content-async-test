@@ -22,3 +22,4 @@ describe('Teste a função fetchCharacter', () => {
     expect(fetch).toHaveBeenCalledWith(url);
   });
 });
+
